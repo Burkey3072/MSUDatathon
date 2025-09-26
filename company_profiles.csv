@@ -1,0 +1,16 @@
+company_id,company_name,sector,tier_or_role,region,uses_chainsight,adoption_stage,data_upload_format,upload_frequency,data_quality_score,trust_score,support_requests_last_qtr,analyst_headcount,primary_carrier,warehouse_capacity_utilization_pct,safety_stock_policy,forecast_tool,grant_engagement_flag,notes
+1001,Delta Plastics,Manufacturing,Tier 3,Central MI,Yes,High,CSV,Weekly,78.3%,84.9%,1,1,Mitten Last-Mile,,Yes,Prophet,Yes,Early champion
+1002,Midland Moldings,Manufacturing,Tier 2,West MI,Yes,Low,Excel,Weekly,72.2%,65.2%,1,1,QuickRoute Carriers,,Yes,Prophet,Yes,
+1003,Great Lakes Fasteners,Manufacturing,Tier 3,West MI,Yes,Medium,PDF,Weekly,67.5%,59.5%,3,1,Mitten Last-Mile,,Yes,Prophet,Yes,
+1004,TriCounty Components,Manufacturing,Tier 3,West MI,Yes,Low,CSV,Weekly,57.9%,30.5%,4,0,North Fork Logistics,,No,Prophet,Yes,
+1005,Riverbend Metals,Manufacturing,Tier 2,West MI,Yes,Medium,Excel,Biweekly,55.6%,77.3%,4,0,Superior Haulage,,Yes,Prophet,Yes,
+1006,Lakeside Warehousing,Warehousing,Warehouse,Central MI,No,Low,Excel,Weekly,81.1%,60.8%,2,0,North Fork Logistics,95.0%,No,Excel,Pending,
+1007,Mid-MI Crossdock,Warehousing,Warehouse,West MI,Yes,Medium,Excel,Weekly,55.5%,52.9%,5,1,Mitten Last-Mile,87.5%,Yes,Prophet,Yes,
+1008,Downtown Storage Co.,Warehousing,Warehouse,Northern MI,Yes,Medium,CSV,Monthly,64.9%,55.2%,2,0,QuickRoute Carriers,77.2%,Yes,Prophet,Yes,
+1009,QuickRoute Carriers,Transportation,Carrier,SE MI,Yes,Medium,Excel,Weekly,67.2%,31.3%,2,0,,,Yes,Prophet,Yes,
+1010,Superior Haulage,Transportation,Carrier,Northern MI,Yes,Medium,PDF,Ad-hoc,38.7%,85.1%,3,0,,,Yes,Prophet,Yes,
+1011,Mitten Last-Mile,Transportation,Carrier,Northern MI,Yes,Low,CSV,Weekly,70.7%,56.4%,3,0,,,Yes,None,Yes,
+1012,AutoSeal Gaskets,Manufacturing,Tier 3,Northern MI,No,Medium,API,Weekly,81.9%,59.1%,0,1,North Fork Logistics,,No,Excel,Pending,
+1013,PolyTech Midwest,Manufacturing,Tier 2,West MI,Yes,Low,Email,Weekly,66.9%,58.3%,2,0,QuickRoute Carriers,,No,Excel,Yes,
+1014,Precision Plastics West,Manufacturing,Tier 3,Central MI,Yes,Low,Excel,Weekly,57.7%,43.6%,2,1,Superior Haulage,,Yes,None,Yes,
+1015,North Fork Logistics,Transportation,Carrier,Northern MI,No,Medium,Excel,Monthly,54.5%,55.6%,1,0,,,No,None,Pending,
