@@ -1,3 +1,5 @@
+
+
 \# MSU Broad Datathon 2025 — ChainSight Project
 
 
@@ -14,9 +16,9 @@ We analyzed the \*\*Connected Midland initiative\*\* and its supply chain platfo
 
 \### Key Challenges
 
-\- Non-user-friendly dashboards and limited self-service.  
+\- Non-user-friendly dashboards and limited self-service.
 
-\- Weak data validation and poor data quality.  
+\- Weak data validation and poor data quality.
 
 \- Forecasting model misalignment and data freshness issues.
 
@@ -24,11 +26,11 @@ We analyzed the \*\*Connected Midland initiative\*\* and its supply chain platfo
 
 \### Recommendations
 
-1\. \*\*Improve usability\*\*: add slicers, selectors, sliders, drillthrough, bookmarks, and export options.  
+1\. \*\*Improve usability\*\*: add slicers, selectors, sliders, drillthrough, bookmarks, and export options.
 
-2\. \*\*Data validation\*\*: implement rubrics and standardized product IDs, apply field-level rules.  
+2\. \*\*Data validation\*\*: implement rubrics and standardized product IDs, apply field-level rules.
 
-3\. \*\*Data freshness\*\*: weekly uploads and assign company analysts to ensure higher quality.  
+3\. \*\*Data freshness\*\*: weekly uploads and assign company analysts to ensure higher quality.
 
 4\. \*\*Adoption boost\*\*: clear, interactive dashboards reduce manual reporting workload.
 
@@ -36,11 +38,11 @@ We analyzed the \*\*Connected Midland initiative\*\* and its supply chain platfo
 
 \## Deliverables
 
-\- Power BI dashboard (.pbix) with self-service features.  
+\- Power BI dashboard (.pbix) with self-service features.
 
-\- DAX measures for standardized revenue and KPIs (Revenue, Orders, On-Time %, Avg Delay, Expedited %, MAPE).  
+\- DAX measures for standardized revenue and KPIs (Revenue, Orders, On-Time %, Avg Delay, Expedited %, MAPE).
 
-\- Data validation rubric and intake template.  
+\- Data validation rubric and intake template.
 
-\- Presentation slides (Broad Datathon).  
+\- Presentation slides (Broad Datathon).
 
